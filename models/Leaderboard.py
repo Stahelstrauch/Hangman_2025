@@ -30,6 +30,9 @@ class Leaderboard:
                 line = line.strip() # Korrastame rea
                 name, word, letters, game_length, game_time = line.split(';')
                 leaderboard.append(Score(name, word, letters, int(game_length), game_time))
+
+            leaderboard = sorted(leaderboard, key=lambda x: (x.game_length, len(x.letters.split(', ')))) # Sorteerida kestvuse järgi
+
         return leaderboard
 
 

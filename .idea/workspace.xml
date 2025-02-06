@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3556b46a-abb7-415d-89b5-fbb27fc30963" name="Changes" comment="Hangman 2025 mäng, tehtud tunnis koos õpetajaga." />
+    <list default="true" id="3556b46a-abb7-415d-89b5-fbb27fc30963" name="Changes" comment="Hangman 2025 mäng, tehtud tunnis koos õpetajaga.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/Leaderboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/View.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/View.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Stahelstrauch"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Stahelstrauch/Hangman_2025.git",
+    "accountId": "cc97dd9e-f35a-459f-b46a-242c828e8161"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -85,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738741786781</updated>
-      <workItem from="1738741807834" duration="48461000" />
+      <workItem from="1738741807834" duration="50259000" />
     </task>
     <task id="LOCAL-00001" summary="Hangman 2025 mäng, tehtud tunnis koos õpetajaga.">
       <option name="closed" value="true" />
@@ -95,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738855043949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hangman 2025 mäng, tehtud tunnis koos õpetajaga.">
+      <option name="closed" value="true" />
+      <created>1738855147779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738855147779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +130,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Hangman 2025 mäng, tehtud tunnis koos õpetajaga." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hangman_2025$app.coverage" NAME="app Coverage Results" MODIFIED="1738854531090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Hangman_2025$app.coverage" NAME="app Coverage Results" MODIFIED="1738856881011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

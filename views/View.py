@@ -204,6 +204,12 @@ class View(Tk):
             self.my_table.heading('game_length', text='Kestvus', anchor=CENTER)
             self.my_table.heading('date_time', text='Mängu aeg', anchor=CENTER)
 
+            # Topelt klikk real
+            self.my_table.bind('<Double-1>', self.on_row_double_click)
+
+
+
+
             #Lisa andmed tabelisse
             x = 0
             for score in data:
@@ -215,6 +221,13 @@ class View(Tk):
 
             self.my_table.pack(fill=BOTH, expand=True)
 
+    def on_row_double_click(self, event):
+        # Võta valitud rida
+        selected_item = self.my_table.selection()
+        if selected_item:
+            row_values = self.my_table.item(selected_item, 'values')
+            #Näitab popup akent infoga
+            messagebox.showinfo("Informatsioon", message=f'Nimi: {row_values[0]}\nSõna: {row_values[1]}\nVigased tähed: {row_values[2]}\nMängu pikkus: {row_values[3]}\nMängu aeg: {row_values[4]}\n', parent=self.my_table)
 
 
     #GETTERS
