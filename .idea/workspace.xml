@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3556b46a-abb7-415d-89b5-fbb27fc30963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Hangman_2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/Controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databases/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/FileObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Leaderboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Stopwatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/View.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="3556b46a-abb7-415d-89b5-fbb27fc30963" name="Changes" comment="Hangman 2025 mäng, tehtud tunnis koos õpetajaga." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,14 +85,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738741786781</updated>
-      <workItem from="1738741807834" duration="47654000" />
+      <workItem from="1738741807834" duration="48461000" />
     </task>
+    <task id="LOCAL-00001" summary="Hangman 2025 mäng, tehtud tunnis koos õpetajaga.">
+      <option name="closed" value="true" />
+      <created>1738855043949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738855043949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hangman 2025 mäng, tehtud tunnis koos õpetajaga." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hangman 2025 mäng, tehtud tunnis koos õpetajaga." />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hangman_2025$app.coverage" NAME="app Coverage Results" MODIFIED="1738854252507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Hangman_2025$app.coverage" NAME="app Coverage Results" MODIFIED="1738854531090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
